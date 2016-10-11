@@ -79,13 +79,13 @@ Redux를 제일 잘가르친다고? 소문이 난 강사입니다. 저도 아직
 ## 무작정 시작하기
 원하는 디렉토리[폴더명]에 React boilerplate 설치하고 시작하기
 
-1. `$sudo npm install -g create-react-app`
+1. `$sudo npm install -g create-react-app` // global에 create react app 설치
 
-2. `$create-react-app [폴더명]`
+2. `$create-react-app 폴더명` // '폴더명' 의 폴더를 만들고 react boilerplate 설치
 
-3. `$cd [폴더명]`
+3. `$cd 폴더명` //change directory to 폴명
 
-4. `$npm start`
+4. `$npm start` //서버 start!
 
 이렇게 하시면 boilerplate 가 원하는 [폴더명]에 깔리고 localhost에 서버가 실행됩니다.
 
