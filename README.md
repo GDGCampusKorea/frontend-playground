@@ -1,9 +1,9 @@
-#frontend
+# #frontend
 
-## frontend 스터디는?
+## Welcome to the frontend channel?
 1. 목적 - frontend 하드 트레이닝 해서 웹 시장을 정복한다.
 2. 대상 - 개발(희망)자 이며, 프로그래밍을 어떤 형태로던 접해본 사람을 대상으로 한다.
-3. 형태 - GDG Campus 채널 중심의 온라인 스터디를 기본으로 하되, 친목과 더불어 서로의 코드를 공유하는 소통의 장을 형성하기 위한 오프라인 밋업도 시간이 허락하는 대로 가진다.
+3. 형태 - GDG Campus 슬랙의 frontend 채널 중심의 온라인 스터디를 기본으로 하되, 친목과 더불어 서로의 코드를 공유하는 소통의 장을 형성하기 위한 오프라인 밋업도 시간이 허락하는 대로 가진다.
 4. 본 스터디는 세부 주제(세션)를 잡고 기간을 정해 파도록 한다.
  > 현재 예정되어 있는 세션 - React, CSS
 
@@ -50,4 +50,13 @@
 
 * 첨언 : Javascript를 공부하는 좋은 방법론에 대한 블로그 입니다.
 https://nolboo.kim/blog/2014/03/13/how-to-learn-javascript-properly/
+
+
+## Roadmap Update 예정
+
+
+
+
+###### Special Thanks to
+@kevinoriginal, @cooking
 
