@@ -30,21 +30,22 @@
 
 
 ##Prerequisite Skillset : Javascript(ECMAScript 5 or 6), Html Basics
-- 자바스크립트의 [초급] 단계 까지는 알고 시작을 하는 것을 권고합니다. 
-- [중급]까지 안다면 배우는데 매끄러운 진행이 가능하며, [기초] 단계만 아는 상태이면 React 를 배우면서 지속적인 공부가 요구 됩니다. 만약 본인이 JS에 대한 기본지식이 아예 없다면, (Pre-session)의 주를 이용해서 굉장히 빠르게 훑어본 다음에, React를 배우면서 학습을 꾸준히 해야 합니다. 아래에 참고할 만한 좋은 자료를 다 모아뒀으니 이걸로 보고 직접 본인의 Curriculum 을 짜보시기 바랍니다.
+> 자바스크립트의 [초급] 단계 까지는 알고 시작을 하는 것을 권고합니다. 
+[중급]까지 안다면 배우는데 매끄러운 진행이 가능하며, [기초] 단계만 아는 상태이면 React 를 배우면서 지속적인 공부가 요구 됩니다. 만약 본인이 JS에 대한 기본지식이 아예 없다면, (Pre-session)의 주를 이용해서 굉장히 빠르게 훑어본 다음에, React를 배우면서 학습을 꾸준히 해야 합니다. 아래에 참고할 만한 좋은 자료를 다 모아뒀으니 이걸로 보고 직접 본인의 Curriculum 을 짜보시기 바랍니다.
 이에 따라 기준을 다음과 같이 정의한다.
- a. [기초] - (튜토리얼) 코드카데미(https://www.codecademy.com/learn/javascript)
- b. [초급] - (책) Javascript & Jquery - 존 두켓
- c. [중급] - (책) 자바스크립트 완벽 가이드 6E - 데이비드 플래너건
+
+ * [기초] - (튜토리얼) 코드카데미(https://www.codecademy.com/learn/javascript)
+ * [초급] - (책) Javascript & Jquery - 존 두켓
+ * [중급] - (책) 자바스크립트 완벽 가이드 6E - 데이비드 플래너건
              or (책) 프론트앤드 개발자를 위한 자바스크립트 프로그래밍
              or (강의) Javascript: Understanding The Weird Parts
 	  (https://www.udemy.com/understand-javascript/learn/v4/overview)
 
-  d. [중고급] - [책] 함수형 자바스크립트 - 마이클 포거스
+ * [중고급] - [책] 함수형 자바스크립트 - 마이클 포거스
  	      and JS Framework로 빌드 경험 유
-  e. [넘사벽] - 그냥 JS 로 된 프레임워크로 프로덕션 해봄. 이럼 걍 위에 다 바름
+ * [넘사벽] - 그냥 JS 로 된 프레임워크로 프로덕션 해봄. 이럼 걍 위에 다 바름
 
-- HTML 은 그냥 적당히 알아서 어느정도 안다고 자신을 가정합시다..
+HTML 은 그냥 적당히 알아서 어느정도 안다고 자신을 가정합시다..
 (코드카데미 html,css 정도면 충분할듯)
 
 
@@ -54,6 +55,25 @@ https://nolboo.kim/blog/2014/03/13/how-to-learn-javascript-properly/
 
 ## Roadmap Update 예정
 
+
+
+## Study Materials
+1. Pro-react (원서만 무료)
+책 원본 pdf 가 드라이브에 있습니다. 한글판을 원하는 분들을 알아서 사세욤 ㅡ3ㅡ
+이 책은 가장 기본 공부 교재로써 최소한 pdf 파일이나, 영어가 어려우신 분은
+번역본도 나름 괜찮게 되더 있으니 구매 부탁 드립니다. (http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390426&orderClick=LAG&Kc=)
+
+2. Velopert blog (무료) 
+여기에 상당히 많은 양의 자료가 정리되어 있습니다. 민준님은 꽤 react에 대해 오래동안 연구해오신 분으로써 자료가 체계적이고 좋습니다.
+링크 :  https://velopert.com/reactjs-tutorials
+
+3. Udemy 강좌 예제 내용, 및 내용정리 
+구매가 필수는 아니지만 권장해드립니다. 제가 지금까지 본 강좌중에 제일 좋습니다. 구매하신 분들이 예제 자료좀 같이 share 할 수 있도록 합시다.
+링크 -  https://www.udemy.com/react-redux/learn/v4/overview 
+
+4. Learn Redux (무료)
+Redux를 제일 잘가르친다고? 소문이 난 강사입니다. 저도 아직 안들어봐서 모르겠는데, 곧 들을 예정이고 우리가 Redux 시작하기 전까지는 전까지는 ½ 이상 듣고 피드백 드리겠습니다.
+링크 - https://learnredux.com/ 
 
 
 
