@@ -95,5 +95,5 @@ Redux를 제일 잘가르친다고? 소문이 난 강사입니다. 저도 아직
 
 
 ##### Special Thanks to
-@kevinoriginal, @cooking
+@kevinoriginal, @cooking, @pjhjohn
 
