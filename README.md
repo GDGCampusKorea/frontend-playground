@@ -76,7 +76,10 @@ Redux를 제일 잘가르친다고? 소문이 난 강사입니다. 저도 아직
 링크 - https://learnredux.com/ 
 
 
+##### Supervisors
+@choeun
 
-###### Special Thanks to
+
+##### Special Thanks to
 @kevinoriginal, @cooking
 
