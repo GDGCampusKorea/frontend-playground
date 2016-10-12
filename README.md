@@ -1,6 +1,6 @@
 # #frontend
 
-## Welcome to the frontend channel?
+## Welcome to the frontend channel
 1. 목적 - frontend 하드 트레이닝 해서 웹 시장을 정복한다.
 2. 대상 - 개발(희망)자 이며, 프로그래밍을 어떤 형태로던 접해본 사람을 대상으로 한다.
 3. 형태 - GDG Campus 슬랙의 frontend 채널 중심의 온라인 스터디를 기본으로 하되, 친목과 더불어 서로의 코드를 공유하는 소통의 장을 형성하기 위한 오프라인 밋업도 시간이 허락하는 대로 가진다.
