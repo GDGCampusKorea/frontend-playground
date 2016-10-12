@@ -22,17 +22,19 @@
 
 
 ##Pre-Session (10/10 ~ 10/16)
-- 목적 : 아직 Javascript 에 대한 이해가 부족하다고 느끼시는 분들, React를 하다가 막히시는 분들을 위한 한 주 (밑에 Prerequisite Skillset 참조)
-- 본인이 대상자인지 아닌지 판별하는 나름 괜찮은 Test : 다음 레포지토리에 있는 “오목” 게임을 javasciprt 로 완성할 수 있다. (이는 DOM mannipulation 에 관한 것이라 사실 React 와는 상관이 없지만 그래도 어느정도 js 에 대한 기본? 을 묻기 때문에 일단 은 요걸 넣어둡니당)
->Test 문제 : https://github.com/kevinOriginal/omokjs
->Test 답안 : https://github.com/kevinOriginal/omok_node
+* 대상 : 본인이 스터디를 참여하기에 기본적인 지식이 충분한지 아닌지는 밑에 **Prerequisite Skillset** 을 참조하세요.
+* 목적 : 아직 Javascript 에 대한 이해가 부족하다고 느끼시는 분들, React를 하다가 막히시는 분들을 위해 한주동안 프리 세션의 기간을 가집니다.
+* 본인이 대상자인지 아닌지 판별하는 나름 괜찮은 **Test** :
+* 다음 레포지토리에 있는 “오목” 게임을 javasciprt 로 완성할 수 있다. (이는 DOM mannipulation 에 관한 것이라 사실 React 와는 상관이 없지만 그래도 어느정도 js 에 대한 기본? 을 묻기 때문에 일단 은 요걸 넣어둡니당)
+* Test 문제 : https://github.com/kevinOriginal/omokjs
+* Test 답안 : https://github.com/kevinOriginal/omok_node
 
 
 
 ##Prerequisite Skillset : Javascript(ECMAScript 5 or 6), Html Basics
 > 자바스크립트의 [초급] 단계 까지는 알고 시작을 하는 것을 권고합니다.
 [중급]까지 안다면 배우는데 매끄러운 진행이 가능하며, [기초] 단계만 아는 상태이면 React 를 배우면서 지속적인 공부가 요구 됩니다. 만약 본인이 JS에 대한 기본지식이 아예 없다면, (Pre-session)의 주를 이용해서 굉장히 빠르게 훑어본 다음에, React를 배우면서 학습을 꾸준히 해야 합니다. 아래에 참고할 만한 좋은 자료를 다 모아뒀으니 이걸로 보고 직접 본인의 Curriculum 을 짜보시기 바랍니다.
-이에 따라 기준을 다음과 같이 정의한다.
+이에 따라 기준을 다음과 같이 정의합니다.
 
  * [기초] - (튜토리얼) 코드카데미(https://www.codecademy.com/learn/javascript)
  * [초급] - (책) Javascript & Jquery - 존 두켓
