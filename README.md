@@ -1,11 +1,22 @@
 # #frontend
 
+#### 깃헙 옥토켓 후드티에 관심이 있다면 잘 오셨습니다.......
+
 ## Welcome to the frontend channel
-1. 목적 - frontend 하드 트레이닝 해서 웹 시장을 정복한다.
-2. 대상 - 개발(희망)자 이며, 프로그래밍을 어떤 형태로던 접해본 사람을 대상으로 한다.
-3. 형태 - GDG Campus 슬랙의 frontend 채널 중심의 온라인 스터디를 기본으로 하되, 친목과 더불어 서로의 코드를 공유하는 소통의 장을 형성하기 위한 오프라인 밋업도 시간이 허락하는 대로 가진다.
+1. 목적 - 웹의 **frontend** 에 대해 하드 트레이닝 해서 웹 시장을 정복한다.
+2. 대상 - 코딩을 어느정도 접해본 학생, 혹은 개발자를 대상으로 하며, Javascript에 대한 기초적인 이해가 있으면 좋다. (자세한건 밑에 Prerequisite Skillset 참조)
 4. 본 스터디는 세부 주제(세션)를 잡고 기간을 정해 파도록 한다.
- > 현재 예정되어 있는 세션 - React, CSS
+5. 질문은 해당 Repository의 Issue란, GDG Campus 슬랙의 #frontend 채널에서의 질문, 혹은 @kevinOriginal 에게 Message 를 주시면 됩니다.
+ * 현재 예정되어 있는 세션 - React + Redux, CSS
+
+##스터디 진행 방향
+* 1주일치 개인적으로 공부를 해야할 것과, 과제가 나갑니다.
+* 모든 공지사항과 과제 설명 및 제출은 해당 이 레포지토리에서 이루어집니다.
+* 따라서 git 과 github 에 대한 기초적인 이해가 필요하며, 잘 모를경우 슬랙에 마구마구 물어보시면 돼요 :)
+* 커뮤니케이션은 슬랙의 private 채널과 github 레포지토리를 통해서 합니다.
+* 과제는 서로 코드 리뷰를 해주고 스터디원들이 돌아가면서 냅니다.
+* 본 스터디에 유동적으로 참여하기 위해서는 협업툴인 Zenhub Chrome extension을 설치해야 합니다.
+> https://www.zenhub.com
 
 
 ##Calendar
@@ -15,7 +26,7 @@
 
 
 ##1st Session : React.js + Redux
-> View를 만드는 최신 라이브러리인 react.js를 공부함으로써 Component 식 구성 방법과 FP에 익숙해진다.
+> View를 만드는 최신 라이브러리인 react.js를 공부함으로써 Component 식 구성 방법과 Redux를 통해 Functional Programming에 익숙해진다.
  러닝 커브를 고려하여 맨 처음 React 만으로 view를 구성하는 것에 충분히 익숙해진 후에
  자바스크립트의 가장 최신 문법인 ES6 (ECMAScript6)는 React 와 함께 곁 가지로  공부하도록 한다.
 
@@ -93,8 +104,8 @@ Redux를 제일 잘가르친다고? 소문이 난 강사입니다. 저도 아직
 
 
 ##### Supervisors
-
+None yet...
 
 
 ##### Special Thanks to
-@kevinoriginal,
+@kevinOriginal,
