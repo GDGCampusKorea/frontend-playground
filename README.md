@@ -23,16 +23,13 @@
 2. frontend 채널 가입 및 frontend_1 private 채널 가입. (문의주세요)
 3. 슬랙 아이디 @kevinoriginal 에게 본인의 Github 아이디를 직접 메세지로 전해주면 collaborator 등록이 됩니다..
 4. Zenhub.com 에 들어가서 zenhub을 설치한다 (설치를 누르면 크롬 익스텐션이 자동으로 설치됨)
-
-* zenhub는 깃헙과 바로 연동이 되는 트렐로 같은 협업툴 입니다.
+ * zenhub는 깃헙과 바로 연동이 되는 트렐로 같은 협업툴 입니다.
 5. 이 레포지토리의 ``issues`` 탭에 들어가 Create new issue 를 누른다.
-
->>
-* 해당 issue에 대해 오른쪽 설정에서 다음과 같이 설정을 한다.
-* **pipeline** 을 Members로 바꾸고  **Lables** 그냥 붙이고싶은거 붙이세요ㅎㅎ
-* **Assignees** 는 본인 이름으로 바꾸세요.
-* ``issue`` 의 제목은 본인슬랙이름 + @깃헙아이디 이다. ex) ``Kevin Jin @kevinOriginal``
-* ``issue`` 의 본문은 자신의 과제 상황을 체크표시로 나타내고, 현재 자신이 힘쓰고 있는것을 써주면 된다.
+ * 해당 issue에 대해 오른쪽 설정에서 다음과 같이 설정을 한다.
+ * **pipeline** 을 Members로 바꾸고  **Lables** 그냥 붙이고싶은거 붙이세요ㅎㅎ
+ * **Assignees** 는 본인 이름으로 바꾸세요.
+ * ``issue`` 의 제목은 본인슬랙이름 + @깃헙아이디 이다. ex) ``Kevin Jin @kevinOriginal``
+ * ``issue`` 의 본문은 자신의 과제 상황을 체크표시로 나타내고, 현재 자신이 힘쓰고 있는것을 써주면 된다.
 
 6. **Wiki** 에 해당 주의 공부할 내용과 과제가 모두 나옵니다.
 7. 현재 맴버들의 진행상황과 공지 등 여러가지는 **Board** 에 들어가서 볼 수 있습니다.
@@ -128,4 +125,7 @@ None yet...
 
 
 ##### Special Thanks to
-@kevinOriginal,
+@cooking, @pjhjohn
+
+##### Manager
+@kevinOriginal
