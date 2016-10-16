@@ -18,6 +18,24 @@
 * 본 스터디에 유동적으로 참여하기 위해서는 협업툴인 Zenhub Chrome extension을 설치해야 합니다.
 > https://www.zenhub.com
 
+## 스터디 시작하기
+1. GDG KR Campus 슬랙 가입
+2. frontend 채널 가입 및 frontend_1 private 채널 가입. (문의주세요)
+3. 슬랙 아이디 @kevinoriginal 에게 본인의 Github 아이디를 직접 메세지로 전해주면 collaborator 등록이 됩니다..
+4. Zenhub.com 에 들어가서 zenhub을 설치한다 (설치를 누르면 크롬 익스텐션이 자동으로 설치됨)
+* zenhub는 깃헙과 바로 연동이 되는 트렐로 같은 협업툴 입니다.
+5. 이 레포지토리의 ``issues`` 탭에 들어가 Create new issue 를 누른다.
+>>
+* 해당 issue에 대해 오른쪽 설정에서 다음과 같이 설정을 한다.
+* **pipeline** 을 Members로 바꾸고  **Lables** 그냥 붙이고싶은거 붙이세요ㅎㅎ
+* **Assignees** 는 본인 이름으로 바꾸세요.
+* ``issue`` 의 제목은 본인슬랙이름 + @깃헙아이디 이다. ex) ``Kevin Jin @kevinOriginal``
+* ``issue`` 의 본문은 자신의 과제 상황을 체크표시로 나타내고, 현재 자신이 힘쓰고 있는것을 써주면 된다.
+
+6. **Wiki** 에 해당 주의 공부할 내용과 과제가 모두 나옵니다.
+7. 현재 맴버들의 진행상황과 공지 등 여러가지는 **Board** 에 들어가서 볼 수 있습니다.
+8. 그래도 **wiki** 를 매주 확인해주세요.
+
 
 ##Calendar
 - 10/7 - GDG Campus Starting Day 스터디 홍보 및 새로운 인원 모집
@@ -32,7 +50,7 @@
 
 
 
-##Pre-Session (10/10 ~ 10/16)
+##Pre-Session ( ~10/16) [마감되었습니다]
 * 대상 : 본인이 스터디를 참여하기에 기본적인 지식이 충분한지 아닌지는 밑에 **Prerequisite Skillset** 을 참조하세요.
 * 목적 : 아직 Javascript 에 대한 이해가 부족하다고 느끼시는 분들, React를 하다가 막히시는 분들을 위해 한주동안 프리 세션의 기간을 가집니다.
 * 본인이 대상자인지 아닌지 판별하는 나름 괜찮은 **Test** :
