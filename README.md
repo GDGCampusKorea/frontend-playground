@@ -23,8 +23,10 @@
 2. frontend 채널 가입 및 frontend_1 private 채널 가입. (문의주세요)
 3. 슬랙 아이디 @kevinoriginal 에게 본인의 Github 아이디를 직접 메세지로 전해주면 collaborator 등록이 됩니다..
 4. Zenhub.com 에 들어가서 zenhub을 설치한다 (설치를 누르면 크롬 익스텐션이 자동으로 설치됨)
+
 * zenhub는 깃헙과 바로 연동이 되는 트렐로 같은 협업툴 입니다.
 5. 이 레포지토리의 ``issues`` 탭에 들어가 Create new issue 를 누른다.
+
 >>
 * 해당 issue에 대해 오른쪽 설정에서 다음과 같이 설정을 한다.
 * **pipeline** 을 Members로 바꾸고  **Lables** 그냥 붙이고싶은거 붙이세요ㅎㅎ
