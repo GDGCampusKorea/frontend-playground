@@ -36,20 +36,20 @@
 8. 그래도 **wiki** 를 매주 확인해주세요.
 
 
-##Calendar
+## Calendar
 - 10/7 - GDG Campus Starting Day 스터디 홍보 및 새로운 인원 모집
 - 10/11 - START!!!!
 - 10/?? - 첫 번째 오프라인 MeetUp 및 친목친목
 
 
-##1st Session : React.js + Redux
+## 1st Session : React.js + Redux
 > View를 만드는 최신 라이브러리인 react.js를 공부함으로써 Component 식 구성 방법과 Redux를 통해 Functional Programming에 익숙해진다.
  러닝 커브를 고려하여 맨 처음 React 만으로 view를 구성하는 것에 충분히 익숙해진 후에
  자바스크립트의 가장 최신 문법인 ES6 (ECMAScript6)는 React 와 함께 곁 가지로  공부하도록 한다.
 
 
 
-##Pre-Session ( ~10/16) [마감되었습니다]
+## Pre-Session ( ~10/16) [마감되었습니다]
 * 대상 : 본인이 스터디를 참여하기에 기본적인 지식이 충분한지 아닌지는 밑에 **Prerequisite Skillset** 을 참조하세요.
 * 목적 : 아직 Javascript 에 대한 이해가 부족하다고 느끼시는 분들, React를 하다가 막히시는 분들을 위해 한주동안 프리 세션의 기간을 가집니다.
 * 본인이 대상자인지 아닌지 판별하는 나름 괜찮은 **Test** :
@@ -59,7 +59,7 @@
 
 
 
-##Prerequisite Skillset : Javascript(ECMAScript 5 or 6), Html Basics
+## Prerequisite Skillset : Javascript(ECMAScript 5 or 6), Html Basics
 > 자바스크립트의 [초급] 단계 까지는 알고 시작을 하는 것을 권고합니다.
 [중급]까지 안다면 배우는데 매끄러운 진행이 가능하며, [기초] 단계만 아는 상태이면 React 를 배우면서 지속적인 공부가 요구 됩니다. 만약 본인이 JS에 대한 기본지식이 아예 없다면, (Pre-session)의 주를 이용해서 굉장히 빠르게 훑어본 다음에, React를 배우면서 학습을 꾸준히 해야 합니다. 아래에 참고할 만한 좋은 자료를 다 모아뒀으니 이걸로 보고 직접 본인의 Curriculum 을 짜보시기 바랍니다.
 이에 따라 기준을 다음과 같이 정의합니다.
